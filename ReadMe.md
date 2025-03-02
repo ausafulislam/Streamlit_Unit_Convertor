@@ -88,5 +88,5 @@ If you have any questions, feel free to reach out:
 
 ---
 
-Made with ❤️ by [Ausaf ul Islam]
-Contact Us [ausafulislam.dev](https://ausafulislam-portfolio.vercel.app)
+- Made with ❤️ by Ausaf ul Islam
+- Contact Us [ausafulislam.dev] (https://ausafulislam-portfolio.vercel.app)
