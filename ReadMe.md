@@ -83,10 +83,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, feel free to reach out:
 
-- Your Name - [ausafkhan7777@gmail.com](mailto:ausafkhan7777@gmail.com)
+- Ausaf Ul Islam - [ausafkhan7777@gmail.com](mailto:ausafkhan7777@gmail.com)
 - Project Link: [Unit_Convertor](https://github.com/ausafulislam/Streamlit_Unit_Convertor.git)
 
 ---
 
 - Made with ❤️ by Ausaf ul Islam
-- Contact Us [ausafulislam.dev] (https://ausafulislam-portfolio.vercel.app)
+- Contact Us [ausafulislam.dev](https://ausafulislam-portfolio.vercel.app)
