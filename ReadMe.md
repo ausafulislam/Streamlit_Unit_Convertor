@@ -1,6 +1,6 @@
 # UniConvert Pro: Ultimate Unit Conversion Tool
 
-![UniConvert Pro Banner](/placeholder.svg?height=200&width=600)
+![UniConvert Pro Banner](https://github.com/ausafulislam/Streamlit_Unit_Convertor/blob/main/Preview_1.png)
 
 UniConvert Pro is a powerful and user-friendly unit conversion tool built with Python and Streamlit. It offers a sleek, modern interface for converting between various units of measurement across multiple categories.
 
@@ -18,7 +18,8 @@ UniConvert Pro is a powerful and user-friendly unit conversion tool built with P
 
 [View Live Demo](https://your-demo-link-here.com)
 
-![UniConvert Pro Demo](/placeholder.svg?height=400&width=600)
+![UniConvert Pro Demo](https://github.com/ausafulislam/Streamlit_Unit_Convertor/blob/main/Preview_1.png)
+![UniConvert Pro Demo](https://github.com/ausafulislam/Streamlit_Unit_Convertor/blob/main/Preview_2.png)
 
 ## Installation
 
@@ -26,8 +27,8 @@ To run UniConvert Pro locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/uniconvert-pro.git
-   cd uniconvert-pro
+   https://github.com/ausafulislam/Streamlit_Unit_Convertor.git
+   cd Streamlit_Unit_Convertor
    ```
 
 2. Create a virtual environment (optional but recommended):
@@ -82,9 +83,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, feel free to reach out:
 
-- Your Name - [your.email@example.com](mailto:your.email@example.com)
-- Project Link: [https://github.com/your-username/uniconvert-pro](https://github.com/your-username/uniconvert-pro)
+- Your Name - [ausafkhan7777@gmail.com](mailto:ausafkhan7777@gmail.com)
+- Project Link: [Unit_Convertor](https://github.com/ausafulislam/Streamlit_Unit_Convertor.git)
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Ausaf ul Islam]
+Contact Us [ausafulislam.dev](https://ausafulislam-portfolio.vercel.app)
